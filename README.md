@@ -14,7 +14,7 @@ GitTrack is an app that allows users to search for any GitHub user and view deta
 - **Search Functionality**: Quickly search for GitHub users by username.
 - **Clean UI**: Modern design with responsive UI built using Flutter.
 
-### Home View & User Profile View
+## Home View & User Profile View
 
 <p float="left">
   <img src="assets/github_images/gittrack1.jpg" width="300" />
